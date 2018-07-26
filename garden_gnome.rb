@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  attr_accessor :name, :age, :gluten_allergy
+  attr_accessor :age, :gluten_allergy
   def initialize(personality = "evil", hat_color = "red")
     @personality = personality
     @hat_color = hat_color
@@ -29,3 +29,5 @@ gnome1 = GardenGnome.name("Walter the Worst")
 gnome2 = GardenGnome.name("James the Jeerk")
 gnome2 = GardenGnome.age("3421")
 puts gnome1 
+
+
