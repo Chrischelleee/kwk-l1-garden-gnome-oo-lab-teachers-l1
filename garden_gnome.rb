@@ -25,3 +25,4 @@ class GardenGnome
     return "Hello humans, my name is #{name}, I am #{age} years old, and you'll rue the day you crossed me!"
   end
 end
+gnome1 = 
