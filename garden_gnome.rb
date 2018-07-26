@@ -32,4 +32,6 @@ puts gnome1
 
 gnome1.name = "Walter the Worst"
 
+puts gnome1.name
+
 
