@@ -30,4 +30,6 @@ gnome2 = GardenGnome.name("James the Jeerk")
 gnome2 = GardenGnome.age("3421")
 puts gnome1 
 
+gnome1.name = "Walter the Worst"
+
 
